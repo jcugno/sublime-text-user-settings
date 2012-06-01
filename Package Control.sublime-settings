@@ -1,0 +1,24 @@
+{
+	"auto_upgrade_last_run": 1338590136,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"Alignment",
+		"Clipboard History",
+		"Color Highlighter",
+		"DocBlockr",
+		"Gist",
+		"Git",
+		"Goto Documentation",
+		"INI",
+		"Markdown Preview",
+		"Package Control",
+		"PHPUnit",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Soda",
+		"ZenCoding"
+	]
+}

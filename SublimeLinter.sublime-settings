@@ -1,0 +1,16 @@
+{
+    /*
+        Sets the mode in which SublimeLinter runs:
+
+        true - Linting occurs in the background as you type (the default).
+        false - Linting only occurs when you initiate it.
+        "load-save" - Linting occurs only when a file is loaded and saved.
+    */
+    "sublimelinter_executable_map":
+    {
+        "php" : "/usr/bin/php"
+    },
+    "sublimelinter_disable":
+    [
+    ]
+ }
