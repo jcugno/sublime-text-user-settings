@@ -1,0 +1,15 @@
+[
+
+//
+// STATUS BAR
+//
+
+    // Status bar label
+    {
+        "class": "label_control",
+        "parents": [{"class": "status_bar"}],
+        "color": [162, 192, 4],
+        "shadow_color": [25, 25, 25],
+        "shadow_offset": [0, -1]
+    }
+]
