@@ -1,4 +1,5 @@
  {
  		"jsdocs_indentation_spaces": 1,
- 		"jsdocs_spacer_between_sections": true
+ 		"jsdocs_spacer_between_sections": true,
+ 		"alignment_space_chars": ["=", ":"]
   }
