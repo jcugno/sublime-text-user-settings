@@ -9,23 +9,33 @@ I'll add links to these once I feel like not being lazy
 
 * Additional PHP Snippets
 * Alignment
+* All Autocomplete
+* Auto Semi-Colon
+* Bracketeer
 * Clipboard History
-* Color Highligther
+* Color Highlighter
+* Color Schemes by carlcalderon
 * DocBlockr
+* Emmet
 * Gist
 * Git
 * Goto Documentation
 * INI
+* jQuery
+* jQuery Snippets pack
 * Markdown Preview
-* PHP Getter Setter
-* PHPUnit
 * Package Control
-* SideBarEnhancments
+* Phix Color Scheme
+* PHPUnit
+* Placeholders
+* Schemr
+* SideBarEnhancements
+* Solarized Color Scheme
 * SublimeCodeIntel
-* SublimeLinter
+* "SublimeLinter
 * Tag
 * Theme - Soda
-* ZendCoding
+* Tomorrow Color Scheme
 
 # Packages I Need to Checkout
 

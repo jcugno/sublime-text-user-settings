@@ -4,19 +4,24 @@
 	[
 		"Additional PHP Snippets",
 		"Alignment",
+		"All Autocomplete",
 		"Auto Semi-Colon",
-		"Camaleon",
+		"Bracketeer",
 		"Clipboard History",
 		"Color Highlighter",
 		"Color Schemes by carlcalderon",
 		"DocBlockr",
+		"Emmet",
 		"Gist",
 		"Goto Documentation",
 		"INI",
+		"jQuery",
+		"jQuery Snippets pack",
 		"Markdown Preview",
 		"Package Control",
 		"Phix Color Scheme",
 		"PHPUnit",
+		"Placeholders",
 		"Schemr",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
@@ -24,7 +29,6 @@
 		"SublimeLinter",
 		"Tag",
 		"Theme - Soda",
-		"Tomorrow Color Schemes",
-		"ZenCoding"
+		"Tomorrow Color Schemes"
 	]
 }
