@@ -1,22 +1,30 @@
 {
-	"auto_upgrade_last_run": 1344449141,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Additional PHP Snippets",
 		"Alignment",
+		"Auto Semi-Colon",
+		"Camaleon",
 		"Clipboard History",
 		"Color Highlighter",
+		"Color Schemes by carlcalderon",
 		"DocBlockr",
 		"Gist",
 		"Goto Documentation",
 		"INI",
 		"Markdown Preview",
 		"Package Control",
+		"Phix Color Scheme",
 		"PHPUnit",
+		"Schemr",
 		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Tag",
 		"Theme - Soda",
+		"Tomorrow Color Schemes",
 		"ZenCoding"
 	]
 }
