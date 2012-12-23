@@ -2,15 +2,20 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Abacus",
 		"Additional PHP Snippets",
 		"Alignment",
 		"All Autocomplete",
 		"Auto Semi-Colon",
 		"Bracketeer",
+		"BracketHighlighter",
+		"Bubububububad and Boneyfied Color Schemes",
 		"Clipboard History",
 		"Color Highlighter",
 		"Color Schemes by carlcalderon",
+		"Dayle Rees Color Schemes",
 		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
 		"Emmet",
 		"Gist",
 		"Goto Documentation",
@@ -18,6 +23,7 @@
 		"jQuery",
 		"jQuery Snippets pack",
 		"Markdown Preview",
+		"MarkdownEditing",
 		"Package Control",
 		"Phix Color Scheme",
 		"PHPUnit",
@@ -25,10 +31,12 @@
 		"Schemr",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
+		"SublimeBlockCursor",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Tag",
 		"Theme - Soda",
+		"ToggleQuotes",
 		"Tomorrow Color Schemes"
 	]
 }

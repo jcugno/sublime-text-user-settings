@@ -1,6 +1,7 @@
 {
+	"auto_complete_on_tab": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Schemes by carlcalderon/Stereokai/Stereokai.tmTheme",
+	"color_scheme": "Packages/Bubububububad and Boneyfied Color Schemes/Resesif Boned.tmTheme",
 	"detect_slow_plugins": false,
 	"font_face": "Bitstream Vera Sans Mono",
 	"font_size": 12.0,
@@ -11,5 +12,6 @@
 	"show_full_path": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }

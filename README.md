@@ -3,7 +3,7 @@ SublimeTextUser
 
 My SublimeText settings and my attempt not lose them + provide portability
 
-# Current Packages
+## Current Packages ##
 
 I'll add links to these once I feel like not being lazy
 
