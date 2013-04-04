@@ -10,6 +10,7 @@
 	[
 	],
 	"show_full_path": true,
+	"sublimelinter_delay": 500,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
