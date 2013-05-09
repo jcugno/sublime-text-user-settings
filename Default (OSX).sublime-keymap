@@ -131,5 +131,8 @@
       {
           "plugin": {"type": ["quote", "tag", "bracket"],"command" : "bracket_plugins.fold_bracket"}
       }
-  }
+  },
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+shift+v"], "command": "paste" },
+  { "keys": ["ctrl+super+r"], "command": "reveal_in_side_bar"}
 ]
