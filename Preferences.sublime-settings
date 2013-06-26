@@ -3,6 +3,7 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"detect_slow_plugins": false,
+	"draw_white_space": "selection",
 	"font_face": "Bitstream Vera Sans Mono",
 	"font_size": 12.0,
 	"highlight_line": true,
@@ -15,5 +16,6 @@
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true,
 	"word_wrap": false
 }

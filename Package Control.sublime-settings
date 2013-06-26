@@ -4,11 +4,9 @@
 	[
 		"Abacus",
 		"Additional PHP Snippets",
-		"Alignment",
 		"All Autocomplete",
 		"Auto Semi-Colon",
 		"Bracketeer",
-		"BracketHighlighter",
 		"Bubububububad and Boneyfied Color Schemes",
 		"Clipboard History",
 		"CoffeeScript",
@@ -17,10 +15,7 @@
 		"Dayle Rees Color Schemes",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
-		"EasyMotion",
 		"Emmet",
-		"Gist",
-		"Git",
 		"GitGutter",
 		"Goto Documentation",
 		"Grunt",
@@ -28,23 +23,22 @@
 		"Jade",
 		"jQuery",
 		"jQuery Snippets pack",
-		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
 		"Phix Color Scheme",
-		"PHPUnit",
 		"Placeholders",
 		"Puppet",
 		"Puppet Syntax checking",
 		"Schemr",
-		"SideBarEnhancements",
 		"Solarized Color Scheme",
 		"SublimeBlockCursor",
-		"SublimeLinter",
 		"Syntax Highlighting for Sass",
-		"Tag",
 		"Theme - Soda",
 		"ToggleQuotes",
 		"Tomorrow Color Schemes"
+	],
+	"repositories":
+	[
+		"https://github.com/SublimeLinter/SublimeLinter/tree/sublime-text-3"
 	]
 }
