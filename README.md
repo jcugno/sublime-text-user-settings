@@ -8,7 +8,7 @@ These go in:
 
 1. Install Sublime Text (2)
 2. Delete the User folder in the above location
-3. git clone https://github.com/jcugno/sublime-text-user-settings.git User
+3. git clone https://github.com/Jojo-Jojovich/sublime-text-user-settings.git User
 4. Load sublime back up and it freaks out. Close and reload until it stops
 
 I have no idea why #4 above is the case, but eventually it does work after a minute
