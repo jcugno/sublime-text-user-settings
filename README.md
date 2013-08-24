@@ -9,7 +9,7 @@ These go in:
 1. Install Sublime Text (2)
 2. Install Sublime Package Control - http://wbond.net/sublime_packages/package_control
 3. Delete the User folder in the above location
-4. git clone https://github.com/Jojo-Jojovich/sublime-text-user-settings.git User
+4. `git clone https://github.com/Jojo-Jojovich/sublime-text-user-settings.git User`
 5. Load sublime back up and it freaks out. Close and reload until it stops
 
 I have no idea why #4 above is the case, but eventually it does work after a minute
