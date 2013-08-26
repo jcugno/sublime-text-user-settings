@@ -3,7 +3,7 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"detect_slow_plugins": false,
-	"font_face": "Bitstream Vera Sans Mono",
+	"font_face": "Menlo",
 	"font_size": 12.0,
 	"highlight_line": true,
 	"ignored_packages":
