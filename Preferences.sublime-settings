@@ -1,4 +1,5 @@
 {
+	"enable_tab_scrolling": false,
 	"auto_complete_on_tab": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
