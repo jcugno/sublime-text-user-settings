@@ -1,13 +1,20 @@
 {
+	"atomic_save": false,
 	"auto_complete_on_tab": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"color_scheme": "Packages/User/Tomorrow-Night (SL).tmTheme",
 	"detect_slow_plugins": false,
+	"enable_tab_scrolling": false,
 	"font_face": "Menlo",
 	"font_size": 12.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Monokai Gray",
+		"ToggleQuotes",
+		"Gist",
+		"Markdown",
+		"JavaScript"
 	],
 	"show_full_path": true,
 	"soda_classic_tabs": true,
