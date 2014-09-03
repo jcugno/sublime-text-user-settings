@@ -10,9 +10,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Monokai Gray",
-		"ToggleQuotes",
-		"Gist",
 		"Markdown",
 		"JavaScript"
 	],
