@@ -10,7 +10,7 @@ These go in:
 2. Install Sublime Package Control - https://packagecontrol.io/installation
 3. Delete the User folder in the above location
 4. `git clone https://github.com/Jojo-Jojovich/sublime-text-user-settings.git User`
-5. Load sublime back up and it freaks out. Close and reload until it stops
+5. Load sublime back up and it freaks out but wait until it's done freaking out
 
 I have no idea why #4 above is the case, but eventually it does work after a minute
 or so, which means I haven't had enough of a problem with it it look into it further ;)
