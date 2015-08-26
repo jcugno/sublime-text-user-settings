@@ -1,5 +1,8 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Abacus",
@@ -23,7 +26,7 @@
 		"Gist",
 		"Git",
 		"GitGutter",
-		"Goto Documentation",
+		"GotoDocumentation",
 		"Grunt",
 		"INI",
 		"Jade",
@@ -33,10 +36,12 @@
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Monokai Gray",
+		"Package Control",
 		"PackageResourceViewer",
 		"Phix Color Scheme",
 		"Placeholders",
 		"Puppet",
+		"Python Improved",
 		"Ruby Slim",
 		"Schemr",
 		"SideBarEnhancements",
