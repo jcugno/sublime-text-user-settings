@@ -9,8 +9,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"JavaScript"
+		"JavaScript",
+		"Markdown"
 	],
 	"show_full_path": true,
 	"soda_classic_tabs": true,
