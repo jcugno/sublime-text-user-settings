@@ -10,7 +10,16 @@
             "eslint": {
                 "@disable": false,
                 "args": [],
-                "excludes": []
+                "excludes": [
+                    "/Users/elee/projects/soxhub/soxhub-client/**/*"
+                ]
+            },
+            "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": [
+                    "/Users/elee/projects/soxhub/soxhub-api/**/*"
+                ]
             }
         },
         "mark_style": "outline",
@@ -36,6 +45,7 @@
             "html (django)": "html",
             "html (rails)": "html",
             "html 5": "html",
+            "javascript (dom)": "javascript",
             "php": "html",
             "python django": "python"
         },
