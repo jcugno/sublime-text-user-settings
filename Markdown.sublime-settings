@@ -1,6 +1,11 @@
 {
-  "color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
-  "line_numbers": false,
-  "font_face": "Cousine",
-  "font_size": 13
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
+	"extensions":
+	[
+		"md",
+		"mdown"
+	],
+	"font_face": "Menlo",
+	"font_size": 12,
+	"line_numbers": true
 }

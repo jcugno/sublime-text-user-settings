@@ -4,12 +4,13 @@ SublimeTextUser
 My SublimeText settings and my attempt not lose them + provide portability
 
 These go in:
-~/Library/Application Support/Sublime Text 2/Packages/User
+~/Library/Application Support/Sublime Text 3/Packages/User
 
-1. Install Sublime Text (2)
-2. Delete the User folder in the above location
-3. git clone https://github.com/jcugno/sublime-text-user-settings.git User
-4. Load sublime back up and it freaks out. Close and reload until it stops
+1. Install Sublime Text (3)
+2. Install Sublime Package Control - https://packagecontrol.io/installation
+3. Delete the User folder in the above location
+4. `git clone https://github.com/Jojo-Jojovich/sublime-text-user-settings.git User`
+5. Load sublime back up and it freaks out but wait until it's done freaking out
 
 I have no idea why #4 above is the case, but eventually it does work after a minute
 or so, which means I haven't had enough of a problem with it it look into it further ;)

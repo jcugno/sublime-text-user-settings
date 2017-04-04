@@ -1,0 +1,12 @@
+// Place your settings in the file "User/CTags.sublime-settings", which
+// overrides the settings in here.
+{
+    // Alter this value if your ctags command is not in the PATH, or if using
+    // a different version of ctags to that in the path (i.e. for OSX).
+    //
+    // NOTE: You *should not* place entire commands here. These commands are
+    // built automatically using the values below. For example:
+    //   GOOD: "command": "/usr/bin/ctags"
+    //   BAD:  "command": "ctags -R -f .tags --exclude=some/path"
+    "command": "/usr/local/bin/ctags"
+}
