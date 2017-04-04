@@ -5,7 +5,7 @@
 	<key>comment</key>
 	<string>http://chriskempson.com</string>
 	<key>name</key>
-	<string>Tomorrow Night</string>
+	<string>Tomorrow Night - Blue</string>
 	<key>settings</key>
 	<array>
 <dict>
@@ -32,7 +32,7 @@
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#1D1F22FF</string>
+<string>#002452FF</string>
 <key>foreground</key>
 <string>#27B65AFF</string>
 <key>caret</key>
@@ -64,7 +64,7 @@
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#1D1F22FF</string>
+<string>#002452FF</string>
 <key>foreground</key>
 <string>#EE2515FF</string>
 <key>caret</key>
@@ -96,7 +96,7 @@
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#1D1F22FF</string>
+<string>#002452FF</string>
 <key>foreground</key>
 <string>#7ED321FF</string>
 <key>caret</key>
@@ -128,7 +128,7 @@
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#1D1F22FF</string>
+<string>#002452FF</string>
 <key>foreground</key>
 <string>#F99115FF</string>
 <key>caret</key>
@@ -160,7 +160,7 @@
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#1D1F22FF</string>
+<string>#002452FF</string>
 <key>foreground</key>
 <string>#FFC100FF</string>
 <key>caret</key>
@@ -172,17 +172,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1D1F21</string>
+				<string>#002451</string>
 				<key>caret</key>
-				<string>#AEAFAD</string>
+				<string>#FFFFFF</string>
 				<key>foreground</key>
-				<string>#C5C8C6</string>
+				<string>#FFFFFF</string>
 				<key>invisibles</key>
-				<string>#4B4E55</string>
+				<string>#404F7D</string>
 				<key>lineHighlight</key>
-				<string>#282A2E</string>
+				<string>#00346E</string>
 				<key>selection</key>
-				<string>#373B41</string>
+				<string>#003F8E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -198,15 +198,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Foreground</string>
+			<string>Foreground, Operator</string>
 			<key>scope</key>
-			<string>keyword.operator.class, constant.other, source.php.embedded.line</string>
+			<string>keyword.operator.class, keyword.operator, constant.other, source.php.embedded.line</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string />
 				<key>foreground</key>
-				<string>#CED1CF</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -217,7 +217,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC6666</string>
+				<string>#FF9DA4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -228,9 +228,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string />
 				<key>foreground</key>
-				<string>#DE935F</string>
+				<string>#FFC58F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -241,9 +241,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string />
 				<key>foreground</key>
-				<string>#F0C674</string>
+				<string>#FFEEAD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -254,9 +254,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string />
 				<key>foreground</key>
-				<string>#B5BD68</string>
+				<string>#D1F1A9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -267,7 +267,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8ABEB7</string>
+				<string>#99FFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -278,9 +278,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string />
 				<key>foreground</key>
-				<string>#81A2BE</string>
+				<string>#BBDAFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -291,9 +291,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string />
 				<key>foreground</key>
-				<string>#B294BB</string>
+				<string>#EBBBFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -304,11 +304,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#DF5F5F</string>
+				<string>#F99DA5</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string />
 				<key>foreground</key>
-				<string>#CED2CF</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -319,9 +319,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#82A3BF</string>
+				<string>#BBDAFE</string>
 				<key>foreground</key>
-				<string>#CED2CF</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -332,11 +332,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#B798BF</string>
+				<string>#EBBBFF</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string />
 				<key>foreground</key>
-				<string>#CED2CF</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -431,8 +431,38 @@
 		    <string>#967EFB</string>
 		  </dict>
 		</dict>
-	</array>
+	<dict>
+            <key>name</key>
+            <string>SublimeLinter Error</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.error</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D02000</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Gutter Mark</string>
+            <key>scope</key>
+            <string>sublimelinter.gutter-mark</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Warning</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DDB700</string>
+            </dict>
+        </dict></array>
 	<key>uuid</key>
-	<string>F96223EB-1A60-4617-92F3-D24D4F13DB09</string>
+	<string>3F4BB232-3C3A-4396-99C0-06A9573715E9</string>
 </dict>
 </plist>
